@@ -1,30 +1,30 @@
   {
-    "token" : "BOT TOKENİ",
-    "sahip" : "ID'niz",
-    "prefix" : "Prefixiniz",
-    "footer" : "Adınız ❤️ Sunucu İsminiz",
+    "token" : "",
+    "sahip" : "432092474907951105",
+    "prefix" : "WHONDY 💛 SİNTRA",
+    "footer" : "WHONDY 💛 SİNTRA",
 
-    "tag" : "Tagınız",
-    "etikettag" : "Etiket Tagınız #'siz'",
-    "sembol" : "Kayıt ederken isim ve yaşın arasına koyulacak sembol (yoksa boş bırakın)",
+    "tag" : "♢",
+    "etikettag" : "ahiretlordu#'4612'",
+    "sembol" : "|",
   
-    "yetkiliRol" : ["YETKİLİ ROLÜ ID", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
-    "vipRol" : "VIP ROL ID",
-    "boosterRol" : "BOOSTER ROL ID",
-    "kayıtsızRol" : "KAYITSIZ ROL ID",
-    "erkekRol1" : "ERKEK ROL ID",
+    "yetkiliRol" : ["737151636274806814", "737151636270612499", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "737151636304297999",
+    "boosterRol" : "744213955165159447",
+    "kayıtsızRol" : "737151636270612498",
+    "erkekRol1" : "737151636304297997",
     "erkekRol2" : "YOKSA BOŞ BIRAK",
-    "kadınRol1" : "KADIN ROL ID",
+    "kadınRol1" : "737151636304297998",
     "kadınRol2" : "YOKSA BOŞ BIRAK",
 
-    "tagRol" : "TAG ROL ID",
-    "tagLog" : "TAG LOG ID",
+    "tagRol" : "737151636304298002",
+    "tagLog" : "744759636384678009",
 
-    "SunucuID" : "SUNUCU ID",
-    "hosgeldinKanal" : "HOS GELDİN KANAL ID",
-    "sohbetKanal" : "SOHBET KANALI ID", 
-    "botSesKanal" : "BOT SES KANALI ID",
+    "SunucuID" : "737151636258029648",
+    "hosgeldinKanal" : "737151636388184100",
+    "sohbetKanal" : "744321651243614278", 
+    "botSesKanal" : "744712366603763753",
   
-    "yes" : "ONAY EMOJİSİ",
-    "no" : "RED EMOJİSİ"
+    "yes" : "✅",
+    "no" : "❌"
 }
